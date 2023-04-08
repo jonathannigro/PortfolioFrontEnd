@@ -1,0 +1,19 @@
+body{
+    background-color: black;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+
+img{
+    height: 150px;
+    width: 150px;
+}
+.centrar{
+    margin:auto;
+    display:block;
+    border-radius:75px;
+}
+.perfil{
+    margin-top: 50px;
+}

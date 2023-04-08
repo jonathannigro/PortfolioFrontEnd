@@ -1,0 +1,15 @@
+.Experiencia{
+    justify-content: center;
+    width: 100%;
+    display: flex;
+    margin-top: 30px;
+}
+
+body{
+    background-color: rgb(23, 23, 23);
+    color: white;
+}
+.trabajos{
+   margin-left: 20px; 
+ 
+}
